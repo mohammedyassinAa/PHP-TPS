@@ -1,0 +1,9 @@
+<?php
+   @$cne=$_POST["cne"];
+   @$nom=$_POST["nom"];
+   @$prenom=$_POST["prenom"];
+   @$login=$_POST["login"];
+   @$pw=$_POST["pw"];
+   @$valider=$_POST["valider"];
+   @$erreur="";
+   ?>
